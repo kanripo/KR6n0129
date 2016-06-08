@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:56.937706
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:39
 #+TITLE: 大乘入道次第
 #+PROPERTY: CBETA_ID T45n1864
 #+PROPERTY: ID KR6n0129
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1864
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0129_T_000-0449b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0129_T_001-0449b> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1864¶
-
- 大乘入道次第一卷¶
+No. 1864¶
+大乘入道次第一卷¶
 ¶
 沙門智周撰¶
 
@@ -30,9 +29,9 @@ No.1864¶
 　故我歸誠此三寶
 　將顯入大乘位行¶
 　願法恒朗長夜中
-　有情永撥重昏暗
+　有情永撥重昏暗」
 #+END_VERSE
-」¶
+¶
 
 夫欲趣求大菩提者。當知二事。一行位修斷。¶
 二所求菩提。初復分二。一列位。次明修斷。位¶
